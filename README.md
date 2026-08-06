@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
