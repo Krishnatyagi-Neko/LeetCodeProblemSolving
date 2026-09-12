@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Krishnatyagi-Neko/LeetCodeProblemSolving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
